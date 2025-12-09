@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <h1>Vite and React and Docker after adding docker volumes</h1>
+      <h1>Vite and React and Docker adding docker volums</h1>
       <div>
         <h2>Posts</h2>
         <ul>
